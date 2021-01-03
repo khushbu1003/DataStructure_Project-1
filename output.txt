@@ -1,0 +1,612 @@
+                  Khushbu Shah        CSC 36000     Section 11
+                   Spring 2020       Assignment #1
+----------------------------------------------------------------------
+
+SOUTHERN COMFORT AIRLINES
+
+Flight 1010
+FROM: Jackson, Mississippi
+TO: Memphis, Tennessee
+
+-999          2013          -999          
+-999          5121          -999          
+9083          -999          1190          
+5050          6054          2153          
+8072          7068          8156          
+5047          3022          1101          
+4161          3163          2200          
+3026          2180          9084          
+8154          1103          -999          
+7061          7142          -999          
+
+Waiting list: 
+There is no waiting list for this flight.
+
+
+END OF SEATING CHART.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SOUTHERN COMFORT AIRLINES
+
+Flight 1015
+FROM: Memphis, Tennessee
+TO: Jackson, Mississippi
+
+-999          -999          -999          
+6053          6052          8071          
+4115          4034          2168          
+-999          8078          -999          
+-999          8155          9111          
+-999          -999          -999          
+-999          -999          1219          
+-999          -999          -999          
+-999          -999          -999          
+7144          -999          -999          
+
+Waiting list: 
+There is no waiting list for this flight.
+
+
+END OF SEATING CHART.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SOUTHERN COMFORT AIRLINES
+
+Flight 1020
+FROM: Jackson, Mississippi
+TO: Little Rock, Arkansas
+
+5195          7149          3030          
+1007          8166          8080          
+4211          7150          6139          
+-999          6138          5125          
+4112          2014          -999          
+8160          -999          -999          
+-999          -999          -999          
+-999          2020          4038          
+7070          -999          8150          
+-999          -999          1004          
+
+Waiting list: 
+9086   9189   4117   
+
+
+END OF SEATING CHART.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SOUTHERN COMFORT AIRLINES
+
+Flight 1025
+FROM: Little Rock, Arkansas
+TO: Jackson, Mississippi
+
+2177          -999          -999          
+6206          3210          4118          
+7207          -999          5212          
+5123          8165          3170          
+5041          8198          8215          
+4114          -999          -999          
+9087          -999          8208          
+-999          7175          4204          
+-999          -999          -999          
+3178          3029          7148          
+
+Waiting list: 
+There is no waiting list for this flight.
+
+
+END OF SEATING CHART.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SOUTHERN COMFORT AIRLINES
+
+Flight 1030
+FROM: Jackson, Mississippi
+TO: Shreveport, Louisiana
+
+2018          4036          1009          
+6130          1001          4184          
+7065          9110          6133          
+9109          6165          1002          
+5045          2017          7143          
+6131          6186          7063          
+3021          6132          8073          
+2218          2016          5046          
+8164          1006          9108          
+5185          4037          6056          
+
+Waiting list: 
+6057   4031   7066   2015   9082   3023   8160   2183   6181   8188   
+3027   3181   8162   4113   7147   1107   4040   3025   4194   9216   
+4179   7214   7197   6213   7151   4119   6140   5205   9088   7152   
+9089   6141   3171   9199   9090   2173   3172   7153   
+
+
+END OF SEATING CHART.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SOUTHERN COMFORT AIRLINES
+
+Flight 1035
+FROM: Shreveport, Louisiana
+TO: Jackson, Mississippi
+
+1106          8163          8159          
+6058          5122          5048          
+1217          6135          7166          
+8161          2191          1008          
+8076          7145          4116          
+7062          5049          1104          
+6060          6051          5124          
+4033          8075          6137          
+9196          2192          7187          
+6136          3028          4032          
+
+Waiting list: 
+4159   2169   8164   9195   2201   2202   9209   6196   3203   8176   
+8151   5128   
+
+
+END OF SEATING CHART.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SOUTHERN COMFORT AIRLINES
+
+Flight 1040
+FROM: Jackson, Mississippi
+TO: Orlando, Florida
+
+-999          -999          -999          
+-999          -999          -999          
+-999          7067          -999          
+-999          5042          -999          
+-999          -999          -999          
+-999          -999          -999          
+3193          3024          -999          
+-999          -999          -999          
+-999          -999          -999          
+-999          -999          4120          
+
+Waiting list: 
+There is no waiting list for this flight.
+
+
+END OF SEATING CHART.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SOUTHERN COMFORT AIRLINES
+
+Flight 1045
+FROM: Orlando, Florida
+TO: Jackson, Mississippi
+
+2012          -999          -999          
+1102          1005          1003          
+6134          7064          8077          
+2162          3167          9085          
+4035          5043          8074          
+3220          1105          7069          
+1010          9081          2011          
+1182          3174          8158          
+5127          7146          4039          
+6059          8079          6055          
+
+Waiting list: 
+8152   3157   2019   
+
+
+END OF SEATING CHART.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ --------------------------------- 
+|      END OF PROGRAM OUTPUT      |
+ --------------------------------- 
